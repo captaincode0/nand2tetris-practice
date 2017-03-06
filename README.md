@@ -19,6 +19,7 @@ week7|Stores the seventh project of the course.
 ##Project of Week 1
 
 Given: Nand.
+
 Goal: Build the following gates.
 
 1. Not.
