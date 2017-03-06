@@ -2,7 +2,7 @@
 
 This repository contains all the projects, to acquire knowledge in the course Build a Modern Computer from First Principles: From Nand to Tetris, at coursera MOOC platform.
 
-The course theach how to build a modern computer from basic principles, using logic gates to make chips, registers, assembly languaje, till do the base simulated hardware of one computer.
+The course theach how to build a modern computer from basic principles, using logic gates to make chips, registers, assembly language, till do the base simulated hardware of one computer.
 
 ##Directory Structure
 
