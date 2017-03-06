@@ -37,3 +37,12 @@ Goal: Build the following gates.
 13. Mux8Way16.
 14. Dmux4Way.
 15. Dmux8Way.
+
+Elementary logic gates|16-bit variants|Multi-way variants
+---|---|---
+Not|Not 16|Or8Way
+And|And16|Mux4Way16
+Or|Or16|Mux8Way16
+Xor|Mux16|Dmux4Way
+Mux||Dmux8Way
+Dmux||
